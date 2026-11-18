@@ -1,0 +1,16 @@
+# Backend framework and server
+fastapi
+uvicorn[standard]
+
+# LLM integration
+openai
+
+# Data validation and configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# Testing
+pytest
+httpx
+
