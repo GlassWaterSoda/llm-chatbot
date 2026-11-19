@@ -4,6 +4,7 @@ uvicorn[standard]
 
 # LLM integration
 openai
+dotenvy
 
 # Data validation and configuration
 pydantic
@@ -13,4 +14,6 @@ python-dotenv
 # Testing
 pytest
 httpx
+
+# http://127.0.0.1:8000/docs
 
